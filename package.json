@@ -17,6 +17,7 @@
     "@emotion/styled": "11.11.0",
     "@mui/icons-material": "5.14.7",
     "@mui/material": "5.14.7",
+    "@wavesurfer/react": "^1.0.5",
     "axios": "^1.6.8",
     "next": "13.4.19",
     "query-string": "^9.0.0",
@@ -24,7 +25,9 @@
     "react-dom": "18.2.0",
     "react-h5-audio-player": "^3.9.1",
     "react-slick": "^0.30.2",
-    "slick-carousel": "^1.8.1"
+    "sass": "^1.75.0",
+    "slick-carousel": "^1.8.1",
+    "wavesurfer.js": "^7.7.11"
   },
   "devDependencies": {
     "@types/node": "20.5.9",
